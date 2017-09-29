@@ -1,0 +1,2 @@
+--simple Flux app
+--npm install
